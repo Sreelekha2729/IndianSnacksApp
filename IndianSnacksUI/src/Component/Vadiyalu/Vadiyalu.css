@@ -1,0 +1,134 @@
+.carousel-item img{
+    width: 100% !important;
+    height: 430px !important;
+}
+.headingColor{
+  color: aliceblue !important;
+  font-size: 70px !important;
+}
+.dropdown:hover .dropdown-menu{
+  display: block;
+}
+.offcanvas-title{
+  font-size: 43px !important;
+  margin-left: 19% !important;
+  margin-top: 5%  !important;
+  font-weight: bold !important;
+  font-style: italic  !important;
+}
+.offcanvas-title:hover{
+    font-size:45px !important;
+    color:darkred !important;
+}
+.dropdown1{
+  margin-left: 25% !important;
+  margin-top: 15% !important;
+  display: block  !important;   
+}
+#mode1{
+  margin-left: 7%;
+   background-color: lightcoral;
+}
+#mode2{
+  margin-left: 8%;
+   background-color: orchid;
+}
+#mode3{
+  margin-left: 9%;
+   background-color: lightseagreen;
+}
+.buy{
+  margin-left: 36% !important;
+  margin-top: 10% !important;
+}
+h6{
+    font-size: 16px;
+    margin-bottom: 2% !important;
+}
+#heading1 p {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif !important;
+  font-size: 30px !important;
+  text-align: center !important;
+  margin-top: 3%;
+  font-weight: bold;
+}
+.btn-primary{
+  margin-top: 5%;
+ margin-left: 5%;
+}
+.cardVadiyalu {
+  box-shadow: 0 4px 8px rgb(0, 0, 0, 0.2);
+  height: 543px !important;
+}
+.cardVadiyalu img {
+  height: 250px;
+}
+.cardVadiyalu {
+  height: 450px;
+}
+.cardVadiyalu p{
+  justify-content: center;
+  font-style: italic;
+  color:darkblue ;
+  font-weight: bold;
+}
+.cardVadiyalu:hover {
+  transform: scale(1.1);
+}
+.card-title {
+  text-align: center;
+}
+.card-text {
+  text-align: center;
+  margin-top: 7%;
+  overflow: hidden;
+}
+.cardWeight{
+  text-align: center;
+  margin-top: 3% !important;
+  color: darkslategrey  !important;
+  font-size: 16px !important;
+}
+.description{
+  color: darkblue !important;
+}
+.box {
+  display: inline-block !important;
+  align-items: center !important;
+  align-content: center !important;
+  justify-content: center !important;
+  min-height: 10vh !important;
+  flex-direction: column !important;
+  margin-left: 23%;
+}
+.star {
+  font-size: 20px !important;
+}
+.checked {
+  color: orange !important;
+}
+.button {
+  background-color: #ee296a;
+  border: none;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  width: 97%;
+}
+.button:hover {
+  background-color: lightseagreen;
+}
+.pagination{
+    margin-top: 1%;
+}
+
+.light-theme {
+  background-color: white;
+}
+.dark-theme {
+  background-color: rgba(0, 0, 0, 0.698) !important;
+}
+.navbar-dark {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+}
+.bg-dark {
+  background-color: rgba(0, 0, 0, 0.1) !important;
+}
